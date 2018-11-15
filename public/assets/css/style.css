@@ -1,0 +1,63 @@
+body {
+    background-color: lightpink;
+}
+
+h2 {
+    margin-left: 50px;
+    border-style: solid;
+    border-width: 2px;
+    border-color: lightskyblue;
+    padding: 10px;
+    border-radius: 10px;
+}
+.burger {
+    width: 20%;
+    height: 20%;
+    margin-left: 40%;
+    margin-top: 3%;
+}
+
+.burgerItem {
+    background-color: lightskyblue;
+    padding: 10px;
+    margin: 10px;
+    
+   
+    border-radius: 25px;
+    text-align: center;
+    width: 100%;
+    
+}
+
+#title {
+    text-align: center;
+    margin-top: 30px;
+}
+
+.col-form-label {
+    text-align: center;
+}
+
+.center_div{
+    margin-left: 38%;
+    margin-top: 5%;
+    width:80% /* value of your choice which suits your alignment */
+}
+
+.btn {
+    margin-left: 13%;
+}
+
+.devourButton {
+    float: right;
+    margin-left: 5px;
+}
+
+#notDevoured {
+    float: left;
+}
+
+#devoured {
+    float:right;
+}
+
