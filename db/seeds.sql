@@ -1,7 +1,7 @@
 INSERT INTO burgers(burger_name, devoured)
 VALUES 
-("The Big Porter Blue", true),
+("The Big Porter Blue", false),
 ("The Santa Fe", false),
-("The Faberge", true),
+("The Faberge", false),
 ("Big Mac", false),
-("Whiskey River BBQ Chicken", true);
+("Whiskey River BBQ Chicken", false);
